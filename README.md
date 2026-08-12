@@ -29,8 +29,8 @@
 
 ### Featured QA Projects
 
-🔹 Playwright Automation Framework
+🔹 Playwright Automation Framework (Playwright Exploration): https://github.com/sandymendoza29/Playwright_Exploration \
 🔹 API Testing Framework
 🔹 Manual Test Design & Risk-Based Testing
-🔹 FinTech Testing Case Study
+🔹 Financial Services (ATRAM Prime): https://www.atram.com.ph/solutions/prime \ 
 🔹 AI/ML Testing
