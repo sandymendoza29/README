@@ -31,6 +31,6 @@
 
 🔹 Playwright Automation Framework (Playwright Exploration): https://github.com/sandymendoza29/Playwright_Exploration \
 🔹 API Testing Framework (API Test): https://github.com/sandymendoza29/API-Test \
-🔹 Manual Test Design & Risk-Based Testing \
+🔹 Manual Test Design & Risk-Based Testing (Test Cases): https://github.com/sandymendoza29/Test-Cases \
 🔹 Financial Services (ATRAM Prime): https://www.atram.com.ph/solutions/prime \
 🔹 AI/ML Testing
