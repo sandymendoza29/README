@@ -4,27 +4,27 @@
 
 10+ years of experience in software testing across:
 
-🎮 Gaming
-🏭 Manufacturing / 3D Printing
-🧪 Analytical Laboratory
-🎵 Music Technology
-💰 Financial Services / FinTech
+🎮 Gaming <br>
+🏭 Manufacturing / 3D Printing <br>
+🧪 Analytical Laboratory <br>
+🎵 Music Technology <br>
+💰 Financial Services / FinTech <br>
 ☁️ Salesforce
 
 ### QA Specialties
 
-• Test Strategy & Planning
-• Manual & Exploratory Testing
-• UI Test Automation
-• API Testing
-• Playwright
-• MySQL / Data Validation
-• Regression & Smoke Testing
-• Risk-Based Testing
-• CI/CD Testing
-• Salesforce Testing
-• Mobile Application Testing
-• FinTech / Trading Application Testing
+• Test Strategy & Planning <br>
+• Manual & Exploratory Testing <br>
+• UI Test Automation <br>
+• API Testing <br>
+• Playwright <br>
+• MySQL / Data Validation <br>
+• Regression & Smoke Testing <br>
+• Risk-Based Testing <br>
+• CI/CD Testing <br>
+• Salesforce Testing (Sales Cloud, Service Cloud) <br>
+• Mobile Application Testing <br>
+• Financial Services (Investment Application Testing) <br>
 • AI/ML Testing
 
 ### Featured QA Projects
