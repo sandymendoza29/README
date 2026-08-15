@@ -29,7 +29,7 @@
 
 ### Featured QA Projects
 
-🔹 Playwright Automation Framework (Playwright Exploration): https://github.com/sandymendoza29/Playwright_Exploration <br>
+🔹 Playwright Automation Framework: https://github.com/sandymendoza29/Playwright_Exploration <br>
 🔹 API Testing Framework (API Test): https://github.com/sandymendoza29/API-Test <br>
 🔹 Manual Test Design & Risk-Based Testing (Test Cases): https://github.com/sandymendoza29/Test-Cases <br>
 🔹 Financial Services (ATRAM Prime): https://github.com/sandymendoza29/projects <br>
